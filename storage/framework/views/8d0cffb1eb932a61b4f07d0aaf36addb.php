@@ -1,0 +1,1 @@
+<?php /**PATH D:\ITS\Matkul\Semester 5\PBKK\Tugas 2\tugas2\resources\views/components/application-logo.blade.php ENDPATH**/ ?>
